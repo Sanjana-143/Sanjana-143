@@ -9,17 +9,23 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_Invertis_University-Bareilly-7C3AED?style=for-the-badge&labelColor=1e1b4b"/>
-<img src="https://img.shields.io/badge/📘_Course-BCA_(AI)-EC4899?style=for-the-badge&labelColor=1e1b4b"/>
-<img src="https://img.shields.io/badge/📊_Goal-Data_Analyst-06B6D4?style=for-the-badge&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/🎓_STUDYING_AT-INVERTIS_UNIVERSITY,_BAREILLY-7C3AED?style=for-the-badge&labelColor=1e1b4b"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/sanjana-sharma-6054a12a6">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=A855F7&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open_to-Internships-22C55E?style=for-the-badge&logo=target&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Quick navigation -->
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-A855F7?style=flat-square"/></a>
+<a href="#-education"><img src="https://img.shields.io/badge/Education-EC4899?style=flat-square"/></a>
+<a href="#%EF%B8%8F-tech-stack--skills"><img src="https://img.shields.io/badge/Skills-06B6D4?style=flat-square"/></a>
+<a href="#-goals--learning-roadmap"><img src="https://img.shields.io/badge/Roadmap-22C55E?style=flat-square"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square"/></a>
 
 </div>
 
