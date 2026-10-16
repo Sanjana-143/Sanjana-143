@@ -141,7 +141,14 @@ Every step is a stepping stone. I'm still learning, still growing and loving the
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+### 🔤 Most Used Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Daily_Practice-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/MySQL-Writing_Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1b4b"/>
 
 </div>
 
